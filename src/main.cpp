@@ -1,6 +1,5 @@
 #include <Arduino.h>
 
-//Google Assistant Home Automation
 #include <ESP8266WiFi.h>
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
